@@ -1,7 +1,7 @@
 {
     "name": "Tag All Bot",
     "description": "A telegram bot that tags all the users in a group.",
-    "repository": "https://github.com/YAIFoundation/TagAllBot",
+    "repository": "https://github.com/coderkkSk/TagAllBot",
     "logo": "",
     "keywords": [
         "python",
@@ -10,12 +10,6 @@
         "Ping All"
     ],
     "image": "heroku/python",
-    "formation": {
-        "web": {
-            "quantity": 1,
-            "size": "free"
-        }
-    },
     "addons": [{
         "plan": "heroku-postgresql"
     }],
